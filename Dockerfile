@@ -1,7 +1,7 @@
 FROM ubuntu:latest
 
-LABEL maintainer ["Matt Stiller"]
+VOLUME ${PWD}:/tmp
 
-RUN apt-get update && apt-get install -y bash
+WORKDIR /tmp
 
 CMD ["bash"]
