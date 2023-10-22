@@ -22,5 +22,8 @@
 * **```** this would close with backticks too but this would make you able to see code.
 * **mkdir** is a make directory command.
 * **touch** can be used to create a file in a folder.
-* **--a** this can list files staring with a .
+* **ls --a** this can list files including ones that begin with a dot.
 * **cp** this is how you can copy.
+* **rm** removes a file.
+* **mv** this can be used to rename or move the file.
+* **find** this can be used to find things or to view all files and folders within the root directory.
