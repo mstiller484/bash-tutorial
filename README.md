@@ -27,3 +27,8 @@
 * **rm** removes a file.
 * **mv** this can be used to rename or move the file.
 * **find** this can be used to find things or to view all files and folders within the root directory.
+* **find --name** this allows you to search for a particular file and get the location.
+* **rmdir** Removes a directory.
+* **rm** Removes a file.
+* **rm -r** Removes everything recursively.  Be very careful removing this way.
+* **>>** If you use this you can add items from the command line to a file.
